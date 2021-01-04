@@ -15,6 +15,8 @@ Encontramos los siguientes archivos:
 
 **practica.ipynb** - Este fichero, la práctica en sí misma, con el análisis. Vemos el código, los comentarios e iremos comentando cada uno de los apartados / tareas a realizar expuestas en el enunciado de la práctica.
 
+**practica.pdf** - Este fichero es una exportación del nootebook con toda la información que contiene.
+
 <br>
 No existe un archivo pdf sólo con la documentación: todo el código, los comentarios explicativos, las conclusiones y razonamientos están dentro del mismo fichero (notebook the júpiter), donde hemos ido explicando los pasos realizados y conclusiones de este análisis (extendidamente).
 
