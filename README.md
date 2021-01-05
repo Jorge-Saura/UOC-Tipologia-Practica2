@@ -11,6 +11,8 @@ Encontramos los siguientes archivos:
 
 **Dataset/EES_2018.csv** - dataset descargado del INE con los resultados de la encuesta de estructura salarial.
 
+**Dataset/dataset_datos_analizados.csv** - dataset con las modificaciones realizadas para el estudio realizado.
+
 **dr_EES_2018.xlsx** - fichero descargado también de la web del INe donde se explica el diseño del dataset con el que trabajamos.
 
 **practica.ipynb** - Este fichero, la práctica en sí misma, con el análisis. Vemos el código, los comentarios e iremos comentando cada uno de los apartados / tareas a realizar expuestas en el enunciado de la práctica.
